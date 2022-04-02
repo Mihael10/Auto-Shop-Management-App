@@ -41,8 +41,7 @@ and the Back-End is connected with the database.
 
 # Application Screenshots
 
-![](../../1.png)
-![](../../2.png)
-![](../../4.png)
-![](../../6.png)
-![](../../7.png)
+![4 jpg](https://user-images.githubusercontent.com/95184489/161398420-3780c395-8500-44e8-afee-35e19a97644c.png)
+
+
+
