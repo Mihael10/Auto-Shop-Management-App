@@ -41,7 +41,16 @@ and the Back-End is connected with the database.
 
 # Application Screenshots
 
-![4 jpg](https://user-images.githubusercontent.com/95184489/161398420-3780c395-8500-44e8-afee-35e19a97644c.png)
+![1](https://user-images.githubusercontent.com/95184489/161398431-9aeea7a3-f90d-4afb-a1e1-1e18e611fce0.png)
+
+![2](https://user-images.githubusercontent.com/95184489/161398440-ba75a220-f9f1-4926-880e-2733fe4cbb6f.png)
+
+![4 jpg](https://user-images.githubusercontent.com/95184489/161398446-84c41c58-8239-4af2-a173-a1fe18645540.png)
+
+![6](https://user-images.githubusercontent.com/95184489/161398452-541925c3-fba5-48b1-b610-a55059367d0c.png)
+
+![7](https://user-images.githubusercontent.com/95184489/161398457-45a6450e-f2ee-4636-9228-22959dad254d.png)
+
 
 
 
