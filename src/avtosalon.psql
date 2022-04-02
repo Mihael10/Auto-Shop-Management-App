@@ -1,0 +1,30 @@
+
+
+
+CREATE TABLE IF NOT EXISTS public.marki
+(
+    marki_id integer NOT NULL,
+    country character varying(255) COLLATE pg_catalog."default",
+    eu boolean,
+    marki_img character varying(255) COLLATE pg_catalog."default",
+    marki_name character varying(255) COLLATE pg_catalog."default",
+    CONSTRAINT marki_pkey PRIMARY KEY (marki_id)
+);
+
+CREATE TABLE IF NOT EXISTS public.modeli
+(
+    modeli_id integer NOT NULL,
+    color character varying(255) COLLATE pg_catalog."default",
+    modeli_name character varying(255) COLLATE pg_catalog."default",
+    price integer,
+    marki_id integer,
+    CONSTRAINT modeli_pkey PRIMARY KEY (modeli_id)
+);
+
+ALTER TABLE IF EXISTS public.modeli
+    ADD CONSTRAINT fkr2nb9xawu8rs6brja1swh260m FOREIGN KEY (marki_id)
+    REFERENCES public.marki (marki_id) MATCH SIMPLE
+    ON UPDATE NO ACTION
+    ON DELETE NO ACTION;
+
+END;
