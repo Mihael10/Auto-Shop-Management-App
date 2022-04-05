@@ -1,10 +1,13 @@
 # Auto Shop Management Web App
 
 # Project Goal: 
+
 This project was made for three things:
+
     1. To connect the back-end with the front-end
     2. To fetch APIs from the back-end
     3. Deployment testing
+    
 
 # To Do:
     1. Fetch Post Method API - JavaScript
